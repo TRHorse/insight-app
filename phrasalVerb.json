@@ -1,0 +1,88 @@
+[
+  {
+    "id": "23423432",
+    "title": "Using Get Verb",
+    "variants": [
+      {
+        "heading": "Get Up",
+        "usage": [
+          {
+            "flag": "main-one",
+            "meaning": "Rise from bed after sleeping",
+            "example": [
+              "He got up early to go to the store.",
+              "The dog got up to see the cat."
+            ]
+          },
+          {
+            "flag": "main-one-sub",
+            "meaning": "Rise from bed after sleeping",
+            "example": [
+              "He got up early to go to the store.",
+              "The dog got up to see the cat."
+            ]
+          },
+          {
+            "flag": "main-tow",
+            "meaning": "Rise from bed after sleeping",
+            "example": [
+              "He got up early to go to the store.",
+              "The dog got up to see the cat."
+            ]
+          },
+          {
+            "flag": "main-tow-sub",
+            "meaning": "Rise from bed after sleeping",
+            "example": [
+              "He got up early to go to the store.",
+              "The dog got up to see the cat."
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "23423432",
+    "title": "Using Take Verb",
+    "variants": [
+      {
+        "heading": "Take off",
+        "usage": [
+          {
+            "flag": "main-one",
+            "meaning": "Rise from bed after sleeping",
+            "example": [
+              "He got up early to go to the store.",
+              "The dog got up to see the cat."
+            ]
+          },
+          {
+            "flag": "main-one-sub",
+            "meaning": "Rise from bed after sleeping",
+            "example": [
+              "He got up early to go to the store.",
+              "The dog got up to see the cat."
+            ]
+          },
+          {
+            "flag": "main-tow",
+            "meaning": "Rise from bed after sleeping",
+            "example": [
+              "He got up early to go to the store.",
+              "The dog got up to see the cat."
+            ]
+          },
+          {
+            "flag": "main-tow-sub",
+            "meaning": "Rise from bed after sleeping",
+            "example": [
+              "He got up early to go to the store.",
+              "The dog got up to see the cat."
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
